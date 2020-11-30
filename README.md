@@ -23,19 +23,13 @@ My second challenge was to properly sort the data for the Outcomes by Goal line 
 
 ## Results
 - What are two conclusions that you can draw about the Outcomes Based on Launch Date?
-Two conclusions that I can draw about the Outcomes Based on Launch Date are that the highest number of successful campaigns had a launch date in the summer months of May, June, and July. I can also conclude that the highest number of failed campaigns were launched in the fall months of September, October, and November.
+Two conclusions that I can draw about the Outcomes Based on Launch Date are that the highest number of successful campaigns had a launch date in the months of May and June. I can also conclude that almost half of theater projects failed when launched in December. Based on this information, I would recommend launching a project in May or June and avoid launching a project in December.
 
 - What can you conclude about the Outcomes Based on Goals?
-I can conclude about the Outcomes Based on Goals that the lower the fundraising goal, the more likely the campaign was to succeed. For theater projects with goals under $1,000, 76 percent succeeded and for those  between $1,000 and $4,999, 73 percent succeeded, whereas the ask for $5,000 to $9,999 had a success rate drop. Only 55 percent were successful.
+I can conclude from analyzing Outcomes Based on Goals that the lower the fundraising goal, the more likely the campaign was to succeed. For theater projects with goals under $1,000, 76 percent succeeded and for those between $1,000 and $4,999, 73 percent succeeded, whereas the ask for $5,000 to $9,999 saw a success rate drop. Only 55 percent were successful. Based on this information, I would recommend setting a goal of $4,999 or less.
 
 - What are some limitations of this dataset?
-Some limitations of this dataset include 
+A limitation of this dataset is the number of projects to analyze past a certain fundriaisng goal changed significantly. When analyzing outcomes by goals, the grand majority of projects launched had a goal of $14,999 or less, so the measurements of success for projects with a fundraising goal of $15,000 or higher technically gave us a percentage, but those percentages were based on significantly less data than the percentages of cheaper projects. The conclusions drawn for cheaper projects might be more accurate than the conclusions drawn for more expensive projects. Another limitation with the data set included an outlier in the collection of canceled projects with a launch date of January.  
 
 - What are some other possible tables and/or graphs that we could create? 
-It would be helpful to examine central tendency and spread to see if any of the data is skewed. I recommend making a pivot table to look at the mean and median of the data to check for skewedness as well as 
-
-The purpose of this analysis is to 
-Performing analysis on kickstarter projects to identify trends
-Chart and Graph
-Recommendations based on findings
-Descriptive commit message
+It would be helpful to visualize outliers, the median, and the mean of outcomes based on goals by creating a box and whisker plot. It would also be helpful to create a table to measure the central tendencies of outcomes based on goals and outcomes based on launch date.
